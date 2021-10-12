@@ -1,7 +1,7 @@
 # Ujian-tcc
 
 Nama : Edi Permadi
-NIM  : 175410046
+
 
 1. Materi Praktikum 1 : Pengenalan Github
 
